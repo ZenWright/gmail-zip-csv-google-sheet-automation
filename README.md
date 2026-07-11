@@ -101,8 +101,21 @@ Removed records where:
 
 ---
 
-## Project Structure
+## Screenshots
 
+### Gmail Attachment
+
+![Gmail Attachment](Screenshots/Gmail_Zip_Attachment.png)
+
+
+### Apps Script Execution
+
+![Execution Log](Screenshots/Apps_Script_Execution.png)
+
+
+### Final Google Sheet Output
+
+![Google Sheet Output](Screenshots/Google_Sheet_Output.png)
 
 ---
 
