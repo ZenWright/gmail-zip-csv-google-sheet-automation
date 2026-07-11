@@ -2,4 +2,3 @@ CreateDate,BuyerIntent,BuyerID,BuyerName,BuyerMobile,ProjectID,ProjectName,Proje
 2026-03-25,Y,100001,Sample Buyer 1,9999999999,50001,Project A,Bangalore,Agent 1,Primary Lead,Connected
 2026-03-25,Y,100002,Sample Buyer 2,8888888888,50002,Project B,Chennai,Agent 2,Online Lead,Follow Up
 2026-03-25,Y,100001,Sample Buyer 1,9999999999,50001,Project A,Bangalore,Agent 1,Primary Lead,Connected
-
